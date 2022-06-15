@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Filip.
 - 👀 I’m interested in coding, bike riding, running & coffee drinking. :)
 - 🌱 I’m currently learning backend parts of web development to complete my knowledge about building high quality web structures.
-- 💞️ I’m looking to collaborate on interesting internet systems. Really love the idea behind Web3.0.
+- 💞️ I’m looking to collaborate on interesting web apps/systems. Really love the idea behind Web3.0.
 <!--- - 📫 How to reach me? filip@hussleverse.dev --->
 
 <!---
