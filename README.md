@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Filip
+- 👋 Hi, I’m Filip.
 - 👀 I’m interested in coding, bike riding, running & coffee drinking. :)
 - 🌱 I’m currently learning backend parts of web development to complete my knowledge about building high quality web structures.
 - 💞️ I’m looking to collaborate on interesting systems. Really love the vision of Web3.0.
